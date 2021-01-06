@@ -4,4 +4,10 @@ function recette() {
     console.log("avec de la meringue");
     console.log("un glaçage à la confiture");
     console.log("avec du chocolat");
+	console.log('prout');
+	caca();
+}
+
+function caca(){
+	console.log('pipi');
 }

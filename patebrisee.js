@@ -1,3 +1,3 @@
 function recette() {
-    console.log("Une bonne tarte")
+    console.log("Une bonne tarte");
 }

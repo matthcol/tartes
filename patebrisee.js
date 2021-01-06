@@ -4,4 +4,9 @@ function recette() {
     console.log("avec de la meringue");
     console.log("un glaçage à la confiture");
     console.log("avec du chocolat");
+    coucou()
+}
+
+function coucou(){
+    console.log("Pas coucou")
 }

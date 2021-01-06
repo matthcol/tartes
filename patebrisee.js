@@ -5,8 +5,13 @@ function recette() {
     console.log("un glaçage à la confiture");
     console.log("avec du chocolat");
     matthias();
+    coucou();
 }
 
 function matthias() {
     console.log("matthias");
+}
+
+function coucou(){
+    console.log("Pas coucou")
 }

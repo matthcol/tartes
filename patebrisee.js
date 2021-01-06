@@ -16,6 +16,7 @@ function caca(){
 
 function matthias() {
     console.log("matthias");
+    console.log("matthias again");
 }
 
 function coucou(){

@@ -6,8 +6,18 @@ function recette() {
     console.log("avec du chocolat");
 	console.log('prout');
 	caca();
+	matthias();
+    coucou();
 }
 
 function caca(){
 	console.log('pipi');
+}
+
+function matthias() {
+    console.log("matthias");
+}
+
+function coucou(){
+    console.log("Pas coucou")
 }
